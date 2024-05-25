@@ -1,5 +1,5 @@
 # GITDEMO
-Here's my projects which i built in my Internship in the Encryptix. 
+It's my first public repository 
 <br>
 
 Author: Anish Mansuri 
